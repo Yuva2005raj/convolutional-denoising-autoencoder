@@ -129,9 +129,10 @@ for i in range(1, n + 1):
 plt.show()
 ```
 ## OUTPUT
+### Training Loss, Validation Loss Vs Iteration Plot
 ![IMAGE DL](https://github.com/Yuva2005raj/convolutional-denoising-autoencoder/assets/118343998/bb1f8798-c895-45bb-af95-3f2c33de7622)
 
-### Training Loss, Validation Loss Vs Iteration Plot
+
 
 
 ### Original vs Noisy Vs Reconstructed Image
